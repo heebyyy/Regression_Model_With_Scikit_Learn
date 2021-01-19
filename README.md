@@ -9,7 +9,7 @@ the features include
 
 - mpg - miles per gallon
 - cylinder - number of cylinderthe car has
-- displacement - 
+- displacement - position of car relative to the ground
 - horse power - 
 - weight - 
 - acceleration - 
